@@ -6,5 +6,5 @@ $('.toggle').click(function(){
 		'padding-top':'toggle',
 		'padding-bottom':'toggle',
 		'opacity':'toggle'
-	});
+	}, "slow");
 });
